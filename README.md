@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/assets/terminal-banner.svg" alt="Terminal: whoami — Shivaraj Bakale, AI full-stack engineer; cat pitch.md — 9 years at Apollo.io, Byju's and Navi, now building agents, MCP, TypeScript, Node." width="840" />
+  <img src=".github/assets/terminal-banner-v2.svg" alt="Terminal: whoami — Shivaraj Bakale, AI full-stack engineer; experience — Apollo.io, Byju's, Navi, 9 years shipping to millions; pitch — frontends for millions of users, now AI agents that ship." width="840" />
 </div>
 
 <br/>

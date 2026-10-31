@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="280" viewBox="0 0 840 280" role="img" aria-label="Terminal: whoami — Shivaraj Bakale; cat pitch.md — I build tools that make software do the boring parts.">
-  <rect x="1" y="1" width="838" height="278" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
-  <path d="M3 15 Q3 3 15 3 H825 Q837 3 837 15 V45 H3 Z" fill="#161B22"/>
+  <rect x="1" y="1" width="838" height="278" rx="14" fill="#1a1b27" stroke="#414559" stroke-width="2"/>
+  <path d="M3 15 Q3 3 15 3 H825 Q837 3 837 15 V45 H3 Z" fill="#24283b"/>
   <circle cx="30" cy="24" r="6" fill="#FF5F56"/>
   <circle cx="54" cy="24" r="6" fill="#FFBD2E"/>
   <circle cx="78" cy="24" r="6" fill="#27C93F"/>
-  <text x="420" y="29" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">shivarajbakale — zsh</text>
+  <text x="420" y="29" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#565f89">shivarajbakale — zsh</text>
 
   <g font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="18">
-    <text x="40" y="92"><tspan fill="#3FB950">$</tspan> <tspan fill="#E6EDF3">whoami</tspan></text>
-    <text x="40" y="124" fill="#8B5CF6" font-weight="600">Shivaraj Bakale</text>
-    <text x="40" y="168"><tspan fill="#3FB950">$</tspan> <tspan fill="#E6EDF3">cat pitch.md</tspan></text>
-    <text x="40" y="200" fill="#C9D1D9">I build tools that make software do the boring parts.</text>
-    <text x="40" y="244"><tspan fill="#3FB950">$</tspan></text>
-    <rect x="52" y="230" width="11" height="20" rx="2" fill="#8B5CF6">
+    <text x="40" y="92"><tspan fill="#9ece6a">$</tspan> <tspan fill="#c0caf5">whoami</tspan></text>
+    <text x="40" y="124" fill="#bb9af7" font-weight="600">Shivaraj Bakale</text>
+    <text x="40" y="168"><tspan fill="#9ece6a">$</tspan> <tspan fill="#c0caf5">cat pitch.md</tspan></text>
+    <text x="40" y="200" fill="#9aa5ce">I build tools that make software do the boring parts.</text>
+    <text x="40" y="244"><tspan fill="#9ece6a">$</tspan></text>
+    <rect x="52" y="230" width="11" height="20" rx="2" fill="#bb9af7">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>
   </g>

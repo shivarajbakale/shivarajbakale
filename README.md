@@ -1,5 +1,15 @@
 <div align="center">
-  <img src=".github/assets/terminal-banner.svg" alt="Terminal: whoami — Shivaraj Bakale; cat pitch.md — I build tools that make software do the boring parts." width="840" />
+  <img src=".github/assets/terminal-banner.svg" alt="Terminal: whoami — Shivaraj Bakale, AI full-stack engineer; cat pitch.md — 9 years at Apollo.io, Byju's and Navi, now building agents, MCP, TypeScript, Node." width="840" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/shivarajbakale?tab=repositories&q=typescript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://github.com/shivarajbakale?tab=repositories&q=react"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://github.com/shivarajbakale?tab=repositories&q=node"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://github.com/shivarajbakale/hatch"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" /></a>
+  <img src="https://img.shields.io/badge/LLM%20agents%20·%20MCP-bb9af7?style=for-the-badge" alt="LLM agents and MCP" />
 </div>
 
 <br/>
@@ -8,19 +18,19 @@
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/shivarajbakale/kitestring"><b>🪁 kitestring</b></a><br/>
-      <sub>Let AI agents drive your real Chrome — every action returns a status, a diff and a page brief.</sub><br/><br/>
+      <sub>Let AI agents drive your real Chrome — every action returns a status, a diff and a page brief. MCP server + CLI + MV3 extension.</sub><br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/license-MIT-bb9af7?style=flat-square" alt="MIT license" />
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/shivarajbakale/hatch"><b>🚀 hatch</b></a><br/>
-      <sub>Deploy Node apps to every region from your own AWS account — one command.</sub><br/><br/>
+      <sub>Deploy Node apps to every region from your own AWS account — one command on Lambda Web Functions, CloudFront included.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/AWS%20Lambda-e0af68?style=flat-square" alt="AWS Lambda" />
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/shivarajbakale/offerlab"><b>🧪 offerlab</b></a><br/>
-      <sub>Interview prep you can watch run — the NeetCode 150 and system design, step by step.</sub><br/><br/>
+      <sub>Interview prep you can watch run — the NeetCode 150 and system design as live, step-by-step simulations.</sub><br/><br/>
       <a href="https://shivarajbakale.github.io/offerlab/"><img src="https://img.shields.io/badge/live-demo-9ece6a?style=flat-square" alt="Live demo" /></a>
       <img src="https://img.shields.io/badge/tests-1%2C234%20passing-9ece6a?style=flat-square" alt="1,234 tests passing" />
     </td>
@@ -45,5 +55,6 @@
 <br/>
 
 <div align="center">
-  <samp>🏠 working from home</samp>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://shivarajbakale.com"><samp>shivarajbakale.com</samp></a>
+  📮 <b>Open to AI full-stack roles</b> · India &amp; remote<br/>
+  <sub><a href="mailto:shivarajapple@gmail.com">shivarajapple@gmail.com</a> · <a href="https://shivarajbakale.com">shivarajbakale.com</a> · <a href="https://www.linkedin.com/in/shivaraj-bakale-aba787114/">LinkedIn</a></sub>
 </div>

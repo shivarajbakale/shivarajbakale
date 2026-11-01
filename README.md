@@ -35,6 +35,16 @@
       <img src="https://img.shields.io/badge/tests-1%2C234%20passing-9ece6a?style=flat-square" alt="1,234 tests passing" />
     </td>
   </tr>
+  <tr>
+    <td colspan="3" valign="top" align="center">
+      <br/>
+      <a href="https://github.com/shivarajbakale/lexicard"><b>🃏 lexicard</b></a><br/>
+      <sub>Swipe to learn the words, idioms and phrases people actually use — 2,051 cards with real-life examples, honest origin stories, spaced repetition and levels. Installable PWA.</sub><br/><br/>
+      <a href="https://shivarajbakale.github.io/lexicard/"><img src="https://img.shields.io/badge/live-demo-9ece6a?style=flat-square" alt="Live demo" /></a>
+      <img src="https://img.shields.io/badge/Expo-React%20Native%20Web-7aa2f7?style=flat-square&logo=expo&logoColor=white" alt="Expo and React Native Web" />
+      <img src="https://img.shields.io/badge/PWA-offline-bb9af7?style=flat-square" alt="Offline PWA" />
+    </td>
+  </tr>
 </table>
 
 <br/>

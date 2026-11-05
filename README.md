@@ -38,6 +38,18 @@
   <tr>
     <td colspan="3" valign="top" align="center">
       <br/>
+      <a href="https://github.com/shivarajbakale/coursewright"><b>📘 coursewright</b></a><br/>
+      <sub>Name anything you want to learn — a team of AI agents writes you a course: first-principles chapters, step-by-step diagrams, quizzes and projects, a tutor that cites your own course, and notes beside every chapter.</sub><br/><br/>
+      <a href="https://github.com/shivarajbakale/coursewright"><img src="https://raw.githubusercontent.com/shivarajbakale/coursewright/main/docs/media/demo.gif" alt="Coursewright: answer a short interview, watch the agents build the course, then read a chapter and take notes beside it" width="640" /></a><br/><br/>
+      <img src="https://img.shields.io/badge/AI%20agents-deepagents%20·%20LangGraph-bb9af7?style=flat-square" alt="AI agents with deepagents and LangGraph" />
+      <img src="https://img.shields.io/badge/React-Mantine-7aa2f7?style=flat-square&logo=react&logoColor=white" alt="React and Mantine" />
+      <img src="https://img.shields.io/badge/Python-FastAPI-e0af68?style=flat-square&logo=python&logoColor=white" alt="Python and FastAPI" />
+      <img src="https://img.shields.io/badge/license-MIT-bb9af7?style=flat-square" alt="MIT license" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top" align="center">
+      <br/>
       <a href="https://github.com/shivarajbakale/lexicard"><b>🃏 lexicard</b></a><br/>
       <sub>Swipe to learn the words, idioms and phrases people actually use — 2,051 cards with real-life examples, honest origin stories, spaced repetition and levels. Installable PWA.</sub><br/><br/>
       <a href="https://shivarajbakale.github.io/lexicard/"><img src="https://img.shields.io/badge/live-demo-9ece6a?style=flat-square" alt="Live demo" /></a>

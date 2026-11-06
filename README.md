@@ -38,7 +38,7 @@
   <tr>
     <td colspan="3" valign="top" align="center">
       <br/>
-      <a href="https://github.com/shivarajbakale/inkling"><img src="https://raw.githubusercontent.com/shivarajbakale/inkling/main/brand/inkling-logo.svg" alt="Inkling" height="36" /></a><br/>
+      <a href="https://github.com/shivarajbakale/inkling"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivarajbakale/inkling/main/brand/inkling-logo-dark.svg" /><img src="https://raw.githubusercontent.com/shivarajbakale/inkling/main/brand/inkling-logo.svg" alt="Inkling" height="36" /></picture></a><br/>
       <sub>Write a diagram as text, get a drawing that looks hand-made — and watch it draw itself step by step. Eight layouts (flow, timeline, mind map, sequence…), a playground, a web component, React and Markdown plugins, and a CLI.</sub><br/><br/>
       <a href="https://github.com/shivarajbakale/inkling"><img src="https://raw.githubusercontent.com/shivarajbakale/inkling/main/docs/readme/01-dns.svg" alt="Inkling: a hand-drawn diagram of how DNS finds a website" width="640" /></a><br/><br/>
       <a href="https://shivarajbakale.github.io/inkling/"><img src="https://img.shields.io/badge/live-playground-9ece6a?style=flat-square" alt="Live playground" /></a>

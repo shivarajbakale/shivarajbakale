@@ -38,6 +38,18 @@
   <tr>
     <td colspan="3" valign="top" align="center">
       <br/>
+      <a href="https://github.com/shivarajbakale/inkling"><img src="https://raw.githubusercontent.com/shivarajbakale/inkling/main/brand/inkling-logo.svg" alt="Inkling" height="36" /></a><br/>
+      <sub>Write a diagram as text, get a drawing that looks hand-made — and watch it draw itself step by step. Eight layouts (flow, timeline, mind map, sequence…), a playground, a web component, React and Markdown plugins, and a CLI.</sub><br/><br/>
+      <a href="https://github.com/shivarajbakale/inkling"><img src="https://raw.githubusercontent.com/shivarajbakale/inkling/main/docs/readme/01-dns.svg" alt="Inkling: a hand-drawn diagram of how DNS finds a website" width="640" /></a><br/><br/>
+      <a href="https://shivarajbakale.github.io/inkling/"><img src="https://img.shields.io/badge/live-playground-9ece6a?style=flat-square" alt="Live playground" /></a>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/tests-551%20passing-9ece6a?style=flat-square" alt="551 tests passing" />
+      <img src="https://img.shields.io/badge/license-MIT-bb9af7?style=flat-square" alt="MIT license" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top" align="center">
+      <br/>
       <a href="https://github.com/shivarajbakale/parley"><b>🎙️ parley</b></a><br/>
       <sub>Voice for your whole Mac — tap, tap, hold a key to dictate, rewrite a selection, ask about it, or hand a command to an agent. Native SwiftUI menu-bar app with Liquid Glass; a TypeScript engine; provider keys on a server you own.</sub><br/><br/>
       <a href="https://github.com/shivarajbakale/parley"><img src="https://raw.githubusercontent.com/shivarajbakale/parley/main/docs/assets/hero.png" alt="Parley's glass recording pill: listening, with a live level meter and timer" width="640" /></a><br/><br/>

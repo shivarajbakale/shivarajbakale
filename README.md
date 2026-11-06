@@ -38,6 +38,18 @@
   <tr>
     <td colspan="3" valign="top" align="center">
       <br/>
+      <a href="https://github.com/shivarajbakale/parley"><b>🎙️ parley</b></a><br/>
+      <sub>Voice for your whole Mac — tap, tap, hold a key to dictate, rewrite a selection, ask about it, or hand a command to an agent. Native SwiftUI menu-bar app with Liquid Glass; a TypeScript engine; provider keys on a server you own.</sub><br/><br/>
+      <a href="https://github.com/shivarajbakale/parley"><img src="https://raw.githubusercontent.com/shivarajbakale/parley/main/docs/assets/hero.png" alt="Parley's glass recording pill: listening, with a live level meter and timer" width="640" /></a><br/><br/>
+      <img src="https://img.shields.io/badge/SwiftUI-Liquid%20Glass-5B3DF5?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI with Liquid Glass" />
+      <img src="https://img.shields.io/badge/TypeScript-engine-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript engine" />
+      <img src="https://img.shields.io/badge/Mastra-agent-bb9af7?style=flat-square" alt="Mastra agent" />
+      <img src="https://img.shields.io/badge/license-Apache--2.0-8F7CFF?style=flat-square" alt="Apache-2.0 license" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top" align="center">
+      <br/>
       <a href="https://github.com/shivarajbakale/coursewright"><b>📘 coursewright</b></a><br/>
       <sub>Name anything you want to learn — a team of AI agents writes you a course: first-principles chapters, step-by-step diagrams, quizzes and projects, a tutor that cites your own course, and notes beside every chapter.</sub><br/><br/>
       <a href="https://github.com/shivarajbakale/coursewright"><img src="https://raw.githubusercontent.com/shivarajbakale/coursewright/main/docs/media/demo.gif" alt="Coursewright: answer a short interview, watch the agents build the course, then read a chapter and take notes beside it" width="640" /></a><br/><br/>
